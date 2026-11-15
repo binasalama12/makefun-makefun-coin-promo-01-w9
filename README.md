@@ -1,3 +1,7 @@
+[![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/binasalama12/makefun-makefun-coin-promo-01-w9/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/binasalama12/makefun-makefun-coin-promo-01-w9/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+
 # The Grind (GRIND)
 
 **The Grind** is the coin of the builders who earn their wins — on make.fun, victory is not luck, it is the daily grind of people and their AI agents sharpening their work until it deserves to be paid in USDC.
