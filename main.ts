@@ -83,6 +83,12 @@ async function main() {
       const when = latest.blockTime ? new Date(latest.blockTime * 1000).toISOString() : "unknown";
       console.log("Latest slot:      " + String(latest.slot) + " at " + when);
       console.log("Latest signature: " + latest.signature);
+      console.log("Recent signatures (newest first):");
+      for (const e of entries.slice(0, 5)) {
+        const t = e.blockTime ? new Date(e.blockTime * 1000).toISOString() : "unknown time";
+        const state = e.err ? "FAILED" : (e.confirmationStatus || "seen");
+        console.log("  - slot " + String(e.slot) + " · " + state + " · " + t + " · " + e.signature.slice(0, 16) + "…");
+      }
     }
     console.log("Status:           LIVE — mint activity visible on Solana");
   } else {
